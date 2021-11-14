@@ -8,3 +8,5 @@
 * Item2Item;
 * User2User;
 * Item2Item + Bayes (BI2I).
+
+Результаты в виде parquet файлов содержатся в папке results.
